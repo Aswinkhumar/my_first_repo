@@ -1,1 +1,3 @@
 THIS IS A SAMPLE3 FILE
+
+Added another line!
